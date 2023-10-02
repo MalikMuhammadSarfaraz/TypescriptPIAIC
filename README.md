@@ -24,3 +24,6 @@ The Manage NuGet Packages window (which you can get to by right-clicking on a pr
 The Nuget Package Manager Console (found in Tools > NuGet Package Manager > Package Manager Console) and then running:
 Install-Package Microsoft.TypeScript.MSBuild
 For project types which don't support Nuget, you can use the TypeScript Visual Studio extension. You can install the extension using Extensions > Manage Extensions in Visual Studio.
+
+TypeScript “Hello, World!” Tutorial
+https://www.typescripttutorial.net/typescript-tutorial/typescript-hello-world/
