@@ -1,5 +1,5 @@
 # TypescriptPIAIC
-main resource URL (https://github.com/panaverse/learn-typescript)
+My Trainer URL (https://github.com/panaverse/learn-typescript)
 All Typescript Practice Assignments of Web3.0 Classes (October 2023)
         // Download Instructions (package-lock.json & package.json)
         https://www.typescriptlang.org/download
