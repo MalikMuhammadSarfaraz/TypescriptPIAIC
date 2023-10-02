@@ -6,6 +6,9 @@ All Typescript Practice Assignments of Web3.0 Classes (October 2023)
 via npm
 TypeScript is available as a package on the npm registry available as "typescript".
 
+VS Code
+https://code.visualstudio.com/docs 
+
 You will need a copy of Node.js as an environment to run the package. Then you use a dependency manager like npm, yarn or pnpm to download TypeScript into your project.
 
 npm install typescript --save-dev
