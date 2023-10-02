@@ -32,3 +32,6 @@ VS Code Extension
 https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.typescript-52 
 JavaScript and TypeScript Nightly - v5.3.20231001 - Microsoft - microsoft.com
 Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support
+
+Git
+-- https://git-scm.com/download/win
