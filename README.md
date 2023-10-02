@@ -1,4 +1,5 @@
 # TypescriptPIAIC
+main resource URL (https://github.com/panaverse/learn-typescript)
 All Typescript Practice Assignments of Web3.0 Classes (October 2023)
         // Download Instructions (package-lock.json & package.json)
         https://www.typescriptlang.org/download
@@ -37,3 +38,6 @@ Enables typescript@next to power VS Code's built-in JavaScript and TypeScript su
 -- https://git-scm.com/download/win
                 TypeScript Online practise URL 
 --- https://www.typescriptlang.org/play?#
+
+Using CMD prompt Generate tsconfig.json by giving this command:
+ tsc --init
