@@ -6,6 +6,7 @@ All Typescript Practice Assignments of Web3.0 Classes (October 2023)
 via npm
 TypeScript is available as a package on the npm registry available as "typescript".
 Error         https://typescript.tv/errors/
+Online Portal https://www.typescriptlang.org/play
 
 VS Code
 https://code.visualstudio.com/docs 
