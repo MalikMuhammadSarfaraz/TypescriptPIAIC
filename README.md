@@ -51,3 +51,9 @@ Using CMD prompt Generate tsconfig.json by giving this command:
 5. number // 0, 5.1, -9
 6. bigint // 0n, 5n, -10n
 7. symbol // Symbol(), Symbol("hi"),
+
+
+Also Read: https://code.visualstudio.com/Docs/languages/typescript
+
+[Watch Learn TypeScript – Full Video Tutorial by freeCodeCamp.org
+](https://www.youtube.com/watch?v=30LWjhZzg50)
